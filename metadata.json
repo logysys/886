@@ -1,0 +1,8 @@
+{
+  "name": "WiKi Wall - Collaborative Wall Editor & Sync",
+  "description": "Full-featured V618.23 WiKi Wall editor and viewer with seamless V2 server synchronization, real-time Co-WiKi visitor cards, owner moderation, and database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
